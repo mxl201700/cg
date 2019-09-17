@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="changgou-user-oauth" />
+        <module name="changgoucommon" />
+        <module name="changgoucommonDb" />
+        <module name="changgoueureka" />
+        <module name="changgougatewayweb" />
+        <module name="changgouservciecanal" />
+        <module name="changgouservicecontent" />
+        <module name="changgouservicecontentapi" />
+        <module name="changgouservicefile" />
+        <module name="changgouserviceGoods" />
+        <module name="changgouservicegoodsapi" />
+        <module name="changgouserviceorder" />
+        <module name="changgouserviceorderapi" />
+        <module name="changgouservicepay" />
+        <module name="changgouservicesearch" />
+        <module name="changgouservicesearchapi" />
+        <module name="changgouserviceseckill" />
+        <module name="changgouserviceseckillapi" />
+        <module name="changgouserviceuser" />
+        <module name="changgouserviceuserapi" />
+        <module name="changgouwebitem" />
+        <module name="changgouwebitemapi" />
+        <module name="changgouwebsearch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="code-template" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
